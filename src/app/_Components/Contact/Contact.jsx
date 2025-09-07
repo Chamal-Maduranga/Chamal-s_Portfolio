@@ -31,6 +31,7 @@ export default function ContactForm() {
 
   return (
     <form onSubmit={handleSubmit} className="flex flex-col gap-3 w-full max-w-md mx-auto">
+      <p className="font-reemakufi text-6xl uppercase">Contact</p>
       <input
         type="text"
         name="name"
