@@ -40,10 +40,10 @@ export default function Home() {
       <section id="portfolio">
         <Portfilio/>
       </section>
-      <section>
+      <section id="services">
         <MyServices/>
       </section>
-      <section>
+      <section id="contact">
         <ContactForm/>
       </section>
 
