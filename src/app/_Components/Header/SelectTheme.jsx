@@ -3,7 +3,7 @@ import ThemeSelector from '../ThemeButton/ThemeButton'
 
 function SelectTheme() {
   return (
-    <div className='z-50'>
+    <div className='z-50 md:text-lg'>
       <ThemeSelector/>
     </div>
   )
